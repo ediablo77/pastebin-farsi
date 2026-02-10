@@ -1,0 +1,14 @@
+body {
+  font-family: Vazirmatn, sans-serif;
+}
+
+.helper {
+  font-size: 14px;
+  color: #6c757d;
+  margin-bottom: 6px;
+}
+
+.code-input {
+  font-family: monospace;
+  font-size: 14px;
+}
