@@ -57,4 +57,5 @@ CREATE TABLE pastes (
 );
 
 اطلاعات ورود به پنل ادمین در پوشه ADMIN فایل login.php قابل مشاهده است ، حتما بعد از نصب یوزرنیم و پسورد را تغییر دهید.
-Thanks To <a href="https://ez7.ir">Ez7</a>
+
+## Thanks To <a href="https://ez7.ir">Ez7</a>
